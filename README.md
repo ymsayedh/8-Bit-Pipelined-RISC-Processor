@@ -2,8 +2,6 @@
 
 > A fully functional 8-bit pipelined processor designed and implemented in Verilog, featuring a custom 32-instruction RISC-like ISA, FSM-based control unit, and data forwarding.
 
-**Course:** Advanced Processor Architecture (ELC 3030) — Cairo University, Fall 2025
-
 ---
 
 ## Overview
