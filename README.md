@@ -1,4 +1,4 @@
-8-Bit Pipelined RISC Processor Harvard Architecture
+8-Bit Pipelined RISC Processor
 
 > A fully functional 8-bit pipelined processor designed and implemented in Verilog, featuring a custom 32-instruction RISC-like ISA, FSM-based control unit, and data forwarding.
 
